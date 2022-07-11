@@ -1,4 +1,4 @@
-#  picomon
+# 📟 picomon
 
 > Lightweight node.js application restarter that only watches dependencies
 
