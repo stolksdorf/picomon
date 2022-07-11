@@ -1,0 +1,13 @@
+{
+  "name": "picomon",
+  "version": "0.0.0",
+  "description": "",
+  "main": "picomon.js",
+  "bin" : "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "stolksdorf <scott.tolksdorf@gmail.com> (https://stolksdorf.dev/)",
+  "license": "MIT"
+}
